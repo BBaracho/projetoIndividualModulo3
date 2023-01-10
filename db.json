@@ -1,0 +1,26 @@
+{
+  "filmes": [
+      {
+          "id": 1,
+          "titulo": "Avatar",
+          "descricao": "filmasso",
+          "ano": 2023,
+          "status": true
+      },
+      {
+        "id": 2,
+        "titulo": "filme do gabigol",
+        "descricao": "o melhor do mundo",
+        "ano": 2023,
+        "status": true
+    },
+    {
+        "id": 3,
+        "titulo": "monstros s.a 2: desafio em toquio",
+        "descricao": "uaaaaaau",
+        "ano": 2023,
+        "status": true
+    }
+  ]
+  
+}
